@@ -1,1 +1,3 @@
-# advdevops_pipeline
+# Sample Application for AWS DevOps Course
+
+#updated this file
